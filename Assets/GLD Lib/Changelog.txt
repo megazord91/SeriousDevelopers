@@ -1,0 +1,14 @@
+v 0.31
+2016/11/18 (afternoon)
+
+Fixed DoorManager
+Added railings to bridge
+Added Bridge tag
+Fixed TexelBuilder panel
+Fixed disabled check on WallLamp
+Added demo scene with doors
+
+v 0.3
+2016/11/18
+
+First Beta Release
